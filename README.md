@@ -15,4 +15,4 @@ This was made with Visual Studio 2022 and does not contain a make or cmake file
 * Rendering a background color
 
 # Showcase
-![Game](Assets/showGame)
+![Game](Assets/showGame.gif)
